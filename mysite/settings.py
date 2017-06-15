@@ -26,7 +26,9 @@ SECRET_KEY = 'j#+kls$0#yrny42gkm*-i0c1=u=d5q^p#$fy&e(pje$av=vngh'
 DEBUG = True
 
 
-ALLOWED_HOSTS = ['127.0.0.1', 'cmah.pythonanywhere.com']
+ALLOWED_HOSTS = [
+    '127.0.0.1', 'cmah.pythonanywhere.com'
+]
 
 # Application definition
 
